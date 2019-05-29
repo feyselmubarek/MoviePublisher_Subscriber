@@ -1,0 +1,7 @@
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\bin\Debug\PublishMovie.exe.config
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\bin\Debug\PublishMovie.exe
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\bin\Debug\PublishMovie.pdb
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\obj\Debug\PublishMovie.csprojAssemblyReference.cache
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\obj\Debug\PublishMovie.csproj.CoreCompileInputs.cache
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\obj\Debug\PublishMovie.exe
+C:\Users\Feysel\source\repos\PublishMovie\PublishMovie\obj\Debug\PublishMovie.pdb
